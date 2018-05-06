@@ -24,6 +24,8 @@ public class testrepository {
 		
 		Or.load(fis);
 		
+		//.tests suyman
+		
 		
 		System.out.println(config.getProperty("browser"));
 		
